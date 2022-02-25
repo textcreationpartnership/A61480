@@ -1,0 +1,339 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A narrative of the extraordinary penitence of Rob. Maynard who was condemned for the murder of John Stockton ... and executed at Tyburn, May the 4th : together with the several conferences held with him in Newgate : as also a copy of the papers which he left to be published after his death / by Joseph Stevens.</title>
+            <author>Stevens, Joseph.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61480</idno>
+            <idno type="STC">Wing S5498</idno>
+            <idno type="STC">ESTC R29534</idno>
+            <idno type="EEBO-CITATION">11168377</idno>
+            <idno type="OCLC">ocm 11168377</idno>
+            <idno type="VID">46485</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61480)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46485)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1432:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A narrative of the extraordinary penitence of Rob. Maynard who was condemned for the murder of John Stockton ... and executed at Tyburn, May the 4th : together with the several conferences held with him in Newgate : as also a copy of the papers which he left to be published after his death / by Joseph Stevens.</title>
+                  <author>Stevens, Joseph.</author>
+                  <author>Maynard, Robert.</author>
+               </titleStmt>
+               <extent>[2], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Dunton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conversion.</term>
+               <term>Repentance.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46485:1" rendition="simple:additions"/>
+            <p>A NARRATIVE OF THE <hi>Extraordinary Penitence</hi> OF <hi>Rob. Maynard,</hi> Who was CONDEMND For the <hi>Murder</hi> of <hi>John Stockton,</hi> Late Victualler in <hi>Grub-ſtreet.</hi> And Executed at <hi>TYB<g ref="char:V">Ʋ</g>RN May</hi> the 4th. TOGETHER with the <hi>SEVERAL CONFERENCES</hi> Held with him in <hi>Newgate:</hi> As alſo a Copy of the <hi>Papers</hi> which he left to be Publiſhed after his DEATH.</p>
+            <p>
+               <hi>By</hi> Joſeph Stevens <hi>Lecturer of</hi> Cripple<g ref="char:EOLhyphen"/>gate <hi>on Sunday Mornings.</hi>
+            </p>
+            <q>Quem poenitet pecaſſe, penè eſt innocens.</q>
+            <p>
+               <hi>London, Printed for</hi> John Dunton <hi>at the</hi> Raven <hi>in</hi> Jewen-Street 1696. — <hi>Price</hi> 6<abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:46485:2"/>
+            <pb n="1" facs="tcp:46485:2"/>
+            <head>An Account of the Peniten<g ref="char:EOLhyphen"/>tial Behaviour of <hi>RO<g ref="char:EOLhyphen"/>BERT MAY<g ref="char:EOLhyphen"/>NARD,</hi> &amp;c.</head>
+            <p>
+               <hi>RObert Maynard,</hi> (a <hi>Stranger to me</hi>) Condemned the laſt Seſ<g ref="char:EOLhyphen"/>ſions but one, and Executed the 4th of this preſent Inſtant, as being concerned in the <hi>Bar<g ref="char:EOLhyphen"/>barous Murder in Grub-ſtreet;</hi> was very Importunate with his near Relations, to engage my Aſſiſtance in the Preparation of his Soul for another World. Upon whoſe Requeſt I Complyed, and, as often a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I had Opportunity, I Viſited him. He ſeemed to be filled with Sorrow for his Many, and Crying Sins, Expreſſing, That his Load was very Ponderous, and Inſup<g ref="char:EOLhyphen"/>portable; not only Diſturbed at the Thoughts of his Shameful End, but ex<g ref="char:EOLhyphen"/>treamly
+<pb n="2" facs="tcp:46485:3"/>Terrified upon a View of his moſt Vicious Life, which was the Occaſion of his Approaching Unhappy <hi>Exit.</hi> When firſt I was admitted to him; he Asked me, <hi>Whether there was any Hope of Salvation for ſuch a Vile Wretch as he?</hi> for, Replies he, <hi>As my ſins are great, ſo they are attend<g ref="char:EOLhyphen"/>ed with the Higheſt Aggravations, as being committed againſt my Conſcience, which of<g ref="char:EOLhyphen"/>ten interpoſed, and would have diverted me from many <g ref="char:V">Ʋ</g>njuſt, and Sinful Perpetrations; but I, fooliſh, giddy Wretch, unwilling to be ſubject to this Monitor, betook my ſelf to ex<g ref="char:EOLhyphen"/>ceſſive Drinking, Looſe Company, and ſuch like, to drown its Cries, and Screeches, and to render my ſelf <g ref="char:V">Ʋ</g>nmindful of its Items. With what Face therefore dare I look up to<g ref="char:EOLhyphen"/>wards Heaven, and Ask Pardon of that God, whoſe Vice-gerent I have ſo proudly diſobeyed, and offered ſo much contempt unto? How can I beg for an Intereſt in Chriſt, who have all my Life-time raked in his Wounds, Cruci<g ref="char:EOLhyphen"/>fied him daily afreſh, and put him to an open ſhame?</hi> And here he fell into a Strong Agony—My Buſineſs with him being to prepare him for his Approaching Death, I thought my ſelf obliged to Anſwer him to this effect. That Sinners, who have lived all along in Open Defiance to Hea<g ref="char:EOLhyphen"/>ven,
+<pb n="3" facs="tcp:46485:3"/>and brought themſelves to an Un<g ref="char:EOLhyphen"/>timely End by their Lewd Courſes, can<g ref="char:EOLhyphen"/>not, (if ſenſible of their own Unworthi<g ref="char:EOLhyphen"/>neſs,) with much Confidence look up to that offended Majeſty, and hope for Par<g ref="char:EOLhyphen"/>don, becauſe it is to be preſumed, that Repentance, hurried by a dread of a Shameful Death, and a Fearful Expecta<g ref="char:EOLhyphen"/>tion of Hell, is generally ſo haſty, and in<g ref="char:EOLhyphen"/>conſiderate, that it conſiſts more in Words, and a few Tears, than in an ab<g ref="char:EOLhyphen"/>ſolute Coverſion of the Heart, Will, and Affections. But then I urged, that the Fear of Hell uſually is the firſt thing which awakens Vicious Men, and brings them to a Serious Thoughtfulneſs; and though ſuch was the ſuppoſed Motive of his Return, yet I cautioned him againſt Deſpair; adding, That though his Con<g ref="char:EOLhyphen"/>verſion be late, and the time ſhort that he had to effect it in, yet, if it be ſincere, out of Love to God, and hatred to Sin, as this is the Scriptural Notion of Repen<g ref="char:EOLhyphen"/>tance; ſo this is the beſt means to pre<g ref="char:EOLhyphen"/>vail with God to be reconciled, and to Pardon his Iniquities, Tranſgreſſions and Sins. Upon which, he burſt out, <hi>By the help of God I will ſpend the time I have to live in a ſtrict ſearch, and examination of
+<pb n="4" facs="tcp:46485:4"/>my Heart, I will not take things upon Truſt, I may eaſily be deceived in the Matters of my Soul; for the Devil is very ready to ſug<g ref="char:EOLhyphen"/>geſt, that I have Wept enough. I have Read,</hi> ſaid he, <hi>that the Devil goes up and down, like a Roaring Lyon, ſeeking whom he may devour; he has Seduced, Tempted, and Be<g ref="char:EOLhyphen"/>trayed me, and has now brought me into theſe <g ref="char:V">Ʋ</g>nhappy Circumſtances; but, I hope, through Divine Aſſiſtance, I ſhall be enabled to pre<g ref="char:EOLhyphen"/>vent him from tumbling me into Hell. O Lord, help me now in my great Extremity, give me not over to the will of the Common Enemy; vouchſafe me a Portion of thy Grace, and I will endeavour to improve it to thy Glory, and my Souls good. I hum<g ref="char:EOLhyphen"/>bly confeſs that I do not deſerve it, becauſe I too ſadly remember that I have all my Life<g ref="char:EOLhyphen"/>time turned it into wantonneſs; but thou art a God whoſe Nature is to ſhew Mercy, and to paſs by ſins Heartily Repented of:</hi> Here his Agony ceaſed; and being in a fit frame of Spirit for Prayer, He Asked me to joyn with him in that Duty, which I did readily; and, while he was engaged in it, he ſeemed very Devout and Ear<g ref="char:EOLhyphen"/>neſt, as if by his Importunity he would have Wreſted Mercy out of the Hands of God. The Duty being over, he thanked
+<pb n="5" facs="tcp:46485:4"/>God for that bleſſed opportunity. I then took my leave of him for that time, giv<g ref="char:EOLhyphen"/>ing him directions how he ſhould order his Converſation till my next Viſit.</p>
+            <p>A bout two or three days after, I went again; and when he was brought to me, he uttered words to this effect, <hi>Bleſſed be God that ever I came into this Priſon; I might have been now running on head-long into Hell, treaſuring up for my ſelf wrath againſt the day of Wrath. I find ſo much comfort in my preſent Circumſtances, that, me thinks, I had rather Dye than Live; for tho God has juſtly permitted my ſins to betray me into this miſery, yet I perceive he delights not in the Death, the Eternal Death of Sin<g ref="char:EOLhyphen"/>ners; tho he ſuffers my Body to be Puniſhed, yet I have hope, he will ſave my Soul for the ſake of his Son Jeſus Chriſt.</hi> Here I inter<g ref="char:EOLhyphen"/>rupted him with this Query, What Teſti<g ref="char:EOLhyphen"/>mony he could give of the ſincerity of his Repentance? And upon what ground his hope of Heaven was founded? He Anſwered me thus, as near as I can re<g ref="char:EOLhyphen"/>member, <hi>My Heart is affected with a deep ſorrow for my Sins, the thoughts of them fill me with indignation againſt my ſelf; I am very odious in my own Eyes, it grieves me
+<pb n="6" facs="tcp:46485:5"/>that I ſhould offend that God, who gave me Life, and Breath, and all things. Time was, and very lately too, that nothing ſo much delighted me, as the being Drunk, keeping Com<g ref="char:EOLhyphen"/>pany with lewd Women, Swearing and doing miſchief unto others; but now I abhor and condemn my ſelf, and wiſh I could recal my miſpent time</hi>— I Anſwered him that theſe were good Inſtances of Godly-ſorrow, but withal hinting to him, that this Re<g ref="char:EOLhyphen"/>pentance might be Superficial, and not of much depth; for that the Heart being deceitful, it might Couzen him in his judg<g ref="char:EOLhyphen"/>ment, and inſinuate the belief into him that he was a Devout Publican, when on<g ref="char:EOLhyphen"/>ly a vain-glorious Phariſee.—He replied, <hi>I hope my watchfulneſs over my Heart, will prevent my being deceived by it: And this is my hope, that whereas I never once conſi<g ref="char:EOLhyphen"/>dered of my miſerable ſtate, but run on Jolli<g ref="char:EOLhyphen"/>ly in Sin, ſo now I am afflicted and ſore troubled upon a Reflection, and tho God has made uſe of this method to awaken me, yet I hope it is as an earneſt of future mercy.</hi>— The Night drawing on, I ended my Con<g ref="char:EOLhyphen"/>ference with him in Prayer.</p>
+            <p>The next time I Viſited him, was in the Evening before the deſigned Executi<g ref="char:EOLhyphen"/>on
+<pb n="7" facs="tcp:46485:5"/>Day, after the laſt Seſſions but one; and going into the Condemned Hole, I found him, with the reſt appointed to Dye, very devout in Prayer; one of his Expreſſions I very well remember, <hi>O Lord, I beſeech thee, let not the good Counſels of thy Miniſter be thrown away upon me, but incline me to be a ſtrict doer, as well as an attentive hearer.</hi> When he had gotten up from off his Knees, ſpake to this effect. <hi>O, Sir, This is the beſt exerciſe that ever I was in<g ref="char:EOLhyphen"/>gaged in, this is better than a great Eſtate, than Honours, and the moſt raviſhing Plea<g ref="char:EOLhyphen"/>ſures of this World. If I had kept to this Duty, God's Bleſſings would have a tended me, and I had been an happy Man: But thanks be to God that he accepts of my late Addreſſes.</hi> I ask'd him how it was with him? <hi>I find</hi> (ſaid he) <hi>that God is good and Gracious, and delights not in the Afflictions of his Servants; my grief is mingled with in<g ref="char:EOLhyphen"/>ward Joy, ſuch as the World cannot give; nothing delights me ſo much as the thoughts of God, theſe ſpirit, and bear me up under the ſhame and reproach I muſt undergo.</hi> He asked me,
+<hi>What were my Sentiments of him?</hi> I Anſwered, That if his Expreſſions did proceed from a broken and contrite Heart, I did believe he was in a ſtate of
+<pb n="8" facs="tcp:46485:6"/>Grace, and way of Mercy. Upon this we proceeded to Prayer, and while upon his Knees, was, to outward appearance in great Raptures and Extaſies. After this I gave him further Directions for the management of that little time he had to live, and ſo left him.</p>
+            <p>The next Morning, being <hi>Execution-Day,</hi> about ſeven a Clock, I went to take my final leave of him, concluding, and he not knowing to the contrary, but that he was to Dye that Day.
+<hi>Sir</hi> (ſaid he) <hi>the happy time is come, this day I hope to be graſped in the Embraces of my dear Redeem<g ref="char:EOLhyphen"/>er; now ſhall I be wafted over into a bleſſed Eternity, where I ſhall never weep, nor ſor<g ref="char:EOLhyphen"/>row more, where no ſin, no temptation ſhall interrupt my Rapturous Enjoyments. When firſt I came into this Friſon my Conſcience was ſo enraged, that I could not reſt night nor day; my ſleep was diſturbed with abun<g ref="char:EOLhyphen"/>dance of ill-aboding Dreams, and was perpe<g ref="char:EOLhyphen"/>tually haunted by my injured Conſcience; for God ſays, there is no Peace to the wicked, and I am ſure, I have found it to be true; tho ſin be pleaſant to the Fleſh, yet it is very bit<g ref="char:EOLhyphen"/>ter to the Soul, but thanks be to God, that has given me his Grace to Repent of the Sins of my
+<pb n="9" facs="tcp:46485:6"/>whole Life, and has reduced me to ſuch a bleſſed Frame and temper of Spirit.</hi> Then he asked me how and in what ſenſe he ſhould underſtand that ſaying of our Sa<g ref="char:EOLhyphen"/>viour, <hi>Come unto me, all ye that travel, and are heavy laden, and I will give reſt un<g ref="char:EOLhyphen"/>to your Souls.</hi> I told him, that Chriſt ad<g ref="char:EOLhyphen"/>dreſſes himſelf to penitent Sinners, who are vexed and grieved at their ſins, en<g ref="char:EOLhyphen"/>tirely deſire to forſake them, and to be admitted into his Communion and Fellow<g ref="char:EOLhyphen"/>ſhip; and in order hereunto, come unto him by Faith and Repentance; and they who thus return; he will comfort them with peace of Mind here, and Crown their Souls with Glory hereafter; where<g ref="char:EOLhyphen"/>upon he replyed, <hi>I hope then my condi<g ref="char:EOLhyphen"/>tion is good; for my Conſcience, which was ſo turbulent, and out-rageous, is calm and peaceable, and am filled with a Joyful hope of a bleſſed Eternity.</hi> Then he deſired me to go to Prayer with him, which I did; and at length took my final leave of him. Execution being over, I was informed that he did not Dye with the reſt of the Priſoners, but reſ<g ref="char:EOLhyphen"/>pited, as was ſuppoſed, by the Keepers of the Priſon, till the Seſſions following.</p>
+            <pb n="10" facs="tcp:46485:7"/>
+            <p>It was I think, a Week, or therea<g ref="char:EOLhyphen"/>bouts, b<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ore I went to Viſit him; and the r<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther, becauſe it was gene<g ref="char:EOLhyphen"/>rally repo<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed, that he behaved him<g ref="char:EOLhyphen"/>ſelf very u<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſeemly in the Priſon, <hi>Cur<g ref="char:EOLhyphen"/>ſing and S<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>earing,</hi> and living after a looſe and de<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>auched rate; that he had broken his letters, and attempted the breaking G<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al. I inquired of Mr. <hi>Tokefield</hi> the
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lark, and of ſome others belonging the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eto, of this matter, who told me, Tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they never had a Pri<g ref="char:EOLhyphen"/>ſoner who carred himſelf better; and that he was <hi>often heard to Pray, and Sing Pſalms.</hi> But it unhappily falling out, that a Criminal, who had broken out of one or two Goals, being con<g ref="char:EOLhyphen"/>fined in the Condemned Hole with him, who was a very Reprobate, tempted him to Saw off his Shackles, which he did; and told him, That he could procure his Reſcue; but being diſcovered, he was Chained down cloſe to a Ring, faſtned in the
+<pb n="11" facs="tcp:46485:7"/>Dungeon for ſuch a pu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>poſe: He told me, <hi>It was a very great grief to him to be confined wi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h ſuch a lewd Perſon, for he often in<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>errupted him in his Devotion, and did all he could to be troubleſome and vexatious.</hi>
+            </p>
+            <p>And here he took occaſion to give me a large Account of the Murder, and Robbery committed in
+<hi>Grub-ſtreet,</hi> for the which he was Condemned to dye; (though I had before many Diſcourſes with him about it,) it will not be a<g ref="char:EOLhyphen"/>miſs to Inſert <hi>HIS RELA<g ref="char:EOLhyphen"/>TION.</hi>
+            </p>
+            <q rend="margQuotes">
+               <p>'Being, ſaid he, redued to Po<g ref="char:EOLhyphen"/>verty, not for want of Work, but through my own Extrava<g ref="char:EOLhyphen"/>gancies, I ſought all opportuni<g ref="char:EOLhyphen"/>ties to gratifie my craving Appe<g ref="char:EOLhyphen"/>tite, and joyned my ſelf with ſuch Company which beſt ſuited my Wicked Intentions. At
+<pb n="12" facs="tcp:46485:8"/>length Mr. <hi>Stockton,</hi> the Perſon Murderd, was the Man we pitch'd upon to Rob and Rifle; and one Evening, I, together with one <hi>Mercer,</hi> and one <hi>Bevin,</hi> went to this <hi>Stockton</hi>'s Houſe to Drink, and he and the reſt of us were very Merry, but impatiently waiting for ſuch a time of Night as would be moſt proper for our Intended Robbery. I take it up<g ref="char:EOLhyphen"/>on my Death, that I had no <hi>Murder</hi> in my Heart, nor had I any ſuch Bloody Deſign, nor did the reſt of my Accomplices men<g ref="char:EOLhyphen"/>tion any ſuch thing, before, nor after we came in. Between the Hours of Twelve and One (I think that was his Expreſſion) we gave a Signal to each other that it was <hi>high time to begin our work.</hi> Accordingly I laid hold of Mr.
+<hi>Stockton,</hi> pulling him by the Neck-cloth, and Conjuring him to be quiet, or otherwiſe it
+<pb n="13" facs="tcp:46485:8"/>would be the worſe for him One of the other two Seized him, while I Bound his Kinſ-woman, and the other went up the Stairs to Plunder; but preſently came down, and Swore, he could find none of the Money ſo much talked of: Inſtantly I went up, and brought down the Mo<g ref="char:EOLhyphen"/>ney, and, to my great ſurprize, found the <hi>Poor Man dead: I asked who Murthered him? One of them Reply'd, I did, the Old Dog would not be quiet, and there<g ref="char:EOLhyphen"/>fore I Knocked him o'th' Head.</hi> I ſaid, I had rather loſt all we came for, then this ſhould have happen'd.</p>
+               <p>'When we were coming out, <hi>Mercer</hi> (I think he ſaid ſo) would have gone back again, and killed the Woman; for then ſays he, we ſhall have no body to Witneſs againſt us: but I
+<pb n="14" facs="tcp:46485:9"/>reſtrain'd him from that Bloo<g ref="char:EOLhyphen"/>dy Action, and ſo we went to my Houſe, and there Shared the Money amongſt us, and ſent the Plate away to be Melt<g ref="char:EOLhyphen"/>ed down.</p>
+               <p>'And this, ſaid he, is the great Burden that has Oppreſſed and Wounded my Conſcience. For though, ſays he, I did not actu<g ref="char:EOLhyphen"/>ally Commit the Murther, yet I was in their Company that perpetrated it, and therefore hold my ſelf equally Guilty with them; and am not only juſtly Condemned to Dye a Temporal Death, but, without Infinite Mercy, muſt Dye E<g ref="char:EOLhyphen"/>ternally.</p>
+               <p>'That which moſt troubles me, is, that I ſhould be In<g ref="char:EOLhyphen"/>ſtrumental of ſending a Man into another World, without
+<pb n="15" facs="tcp:46485:9"/>any Intimation of his Sudden Death, or giving him Time to Beg God's Pardon, and Mercy.</p>
+               <p>'I am not ſo Rigidly dealt with, though the Law has Condemned me, yet it gives me time to Repent of this, and all other my Sins; and the Lord grant I may Improve the Time ſo Mercifully allowed me.</p>
+            </q>
+            <p>Here I Suited my Diſcourſe to his Ingenuous Confeſſion; and Laboured to make him yet more and more ſenſible of this Horrid Fact; and indeed, in his general Deportment, I ſaw viſible Cha<g ref="char:EOLhyphen"/>racters of Sorrow and Peniten<g ref="char:EOLhyphen"/>cy. I Viſited him ſeveral times after this.</p>
+            <pb n="16" facs="tcp:46485:10"/>
+            <p>But that which I ſhall further take notice of, is, That on <hi>Mon<g ref="char:EOLhyphen"/>day</hi> Morning, the 4th of this In<g ref="char:EOLhyphen"/>ſtant (the Day appointed for Execution by the Sheriffs, tho' the Keepers of the Priſon knew nothing of it certainly) between the Hours of Six and Seven, I went into the Priſon, and deſi<g ref="char:EOLhyphen"/>red to ſpeak with this <hi>Robert Maynard,</hi> who was brought out to me.</p>
+            <p>
+               <hi>I</hi> Asked him how Affairs ſtood between God and his Soul? He told me, <hi>He hoped his Condition was Hopeful; onely,</hi> ſays he, <hi>I am troubled with abundance of vain, wandring Thoughts, which very much interrupt me when I am Praying.</hi>
+            </p>
+            <pb n="17" facs="tcp:46485:10"/>
+            <p>To this, <hi>I</hi> anſwered, That this is a common Calamity, and no Chriſtian is freed from it, but more or leſs is unhappily diſtur<g ref="char:EOLhyphen"/>bed by wandring thoughts; <hi>I</hi> ur<g ref="char:EOLhyphen"/>ged, that God would not impute theſe unto him, if he did not nouriſh, and entertain them with delight and complacency, but up<g ref="char:EOLhyphen"/>on the firſt knowledge of them, laboured to caſt them out of his Mind; that Men are accounta<g ref="char:EOLhyphen"/>ble for Evil Thoughts, when they are Entertained with Deſire, and harbour'd as Incentives to Sin.</p>
+            <p>He Anſwer'd, <hi>I have, and yet do ſtrenuouſly endeavour to eject them, as Perverters of God's Worſhip, and Enemies to the Pre<g ref="char:EOLhyphen"/>paration of my Soul for his Em<g ref="char:EOLhyphen"/>braces.</hi>
+            </p>
+            <pb n="18" facs="tcp:46485:11"/>
+            <p>In the Interim, the Great Bell in the Neighbouring Steeple be<g ref="char:EOLhyphen"/>gan to Tole; he liſtens, and in a Great Agony cryes out, <hi>What we dye to day? I did not know it before; this is my Paſſing-Bell; it would have much troubled me to have heard it, and had left the Work of my Soul unwrought; but bleſſed be my good God, who has aſ<g ref="char:EOLhyphen"/>ſiſted me by his Grace and Bleſſed Spirit: I am not afraid to Dye, nor nor doth the Noiſe of that Bell caſt me down, but rather urges me to be ſtill working on till my laſt period.</hi>
+            </p>
+            <pb n="19" facs="tcp:46485:11"/>
+            <p>
+               <hi>Come,</hi> ſays he, <hi>once more to Prayers, it is a bleſſed thing to approach God in Prayer, and I am never better then when I am upon my knees.</hi>
+            </p>
+            <p>When the Solemnity was o<g ref="char:EOLhyphen"/>ver, He asked me to go with him to the Place of Execution, and I did.</p>
+            <p>He told me, that he had left <hi>SOME PAPERS,</hi> which he deſired me to Print, for the Good of all thoſe who ſurvived him; and would not be eaſie, before I had made him a Pro<g ref="char:EOLhyphen"/>miſe, that I would Print them; I have therefore affixed them, as his <hi>Own Copy,</hi> which I have by me; making no Deviations from his Senſe, only Correcting ſome
+<pb n="20" facs="tcp:46485:12"/>Paſſages, which, through Di<g ref="char:EOLhyphen"/>ſtraction of his Thoughts, and other Inconveniences which at<g ref="char:EOLhyphen"/>tended him, might be indigeſt<g ref="char:EOLhyphen"/>edly Penned.</p>
+         </div>
+         <div type="papers">
+            <pb n="21" facs="tcp:46485:12"/>
+            <head>THE PAPERS Left by <hi>Robert Maynard, Which he deſired might be Publiſht after his Death.</hi>
+            </head>
+            <p>I Conſidering that being now ſummoned to a ſpeedy ap<g ref="char:EOLhyphen"/>pearance before the impartial and moſt dreadful tribunal of the juſt and Righteous Judge of all the Earth, there to anſwer for thoſe many and heinous ſins viſible in my vicious and ill lead Life:
+<pb n="22" facs="tcp:46485:13"/>I hold my ſelf obliged to enter into a narrow ſearch, and a very cloſe Inſpection of my heart, and all my ways; indeed are great and many, ſo great that they juſtly bring my body to ſhame and ruine, and my Soul, (if God have not mercy upon it) to endleſs miſery.</p>
+            <p>Theſe general Conſiderations have almoſt diſtracted my thoughts; yet I cannot find any reſt, till I have made a more diligent ſearch, a more diſtinct and particular diſcovery of all that wickedneſs that has been dam'd up in my heart. My <hi>ſins have now found me out,</hi> and Gods Juſtice has overtaken and arreſted me. So that now be<g ref="char:EOLhyphen"/>ing to be made a ſpectacle of ſhame to the world, I leave theſe
+<pb n="23" facs="tcp:46485:13"/>as a warning behind me, that all who hear, or read them may fear to do wickedly.</p>
+            <p>Let the conſideration of my unhappy condition, add weight to my words.</p>
+            <p>
+               <hi>Dying men ſurely will not diſſem<g ref="char:EOLhyphen"/>ble, and put the World off with ſhams and lyes;</hi> I will ſpeak the Truth to God's Glory and my own ſhame.</p>
+            <p>I confeſs then that the Hand of Heaven has been exceeding Bountiful to me; he has given me all things richly to enjoy. I had no reaſon to murmur, as if my Portion had been ſparing, either in Spiritual or Temporal things.</p>
+            <pb n="24" facs="tcp:46485:14"/>
+            <p>For, Firſt, I came of very Ho<g ref="char:EOLhyphen"/>neſt and Godly Parents, who took great care to bring up their Children to know their Duty toward God and Men. But I, the worſt of all (after my good Father and Mother had inſtilled what Goodneſs they could into me) would not thank<g ref="char:EOLhyphen"/>fully receive the Grace of God tendered to me, to Cultivate and Rectify my Rude Nature, nor be ſubject to their wholſome in<g ref="char:EOLhyphen"/>ſtructions, but followed the No<g ref="char:EOLhyphen"/>tions of my corrupt Heart, ſel<g ref="char:EOLhyphen"/>dom ſerved God, but often doing the Devils drudgery, ſometimes diverting my ſelf by exceſſive Drinking, ſometimes Gameing, and other Immoral Exerciſes, till I became <hi>a Monſter in Sin, and an Hero in Iniquity.</hi> Now Nature which bluſhed at a Sin,
+<pb n="25" facs="tcp:46485:14"/>and at firſt made modeſt Refu<g ref="char:EOLhyphen"/>ſals, is become impudent, and bare faced, and ſticks not at the Vileſt Perpetration. Now Con<g ref="char:EOLhyphen"/>ſcience, which was tender and ſenſible, is, by my repeated im<g ref="char:EOLhyphen"/>prudences, become Callous, and paſt ſeeling.</p>
+            <p>Little did I think of after<g ref="char:EOLhyphen"/>olaps, that there was ſo much bitterneſs in the ſeemingly de<g ref="char:EOLhyphen"/>licious Draughts of Sin; I was not aware of theſe furious
+<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>up<g ref="char:EOLhyphen"/>tions, and violent Thunderings of an injured mind.</p>
+            <p>But this was my courſe of Life, while <hi>a ſingle Man.</hi>
+            </p>
+            <pb n="26" facs="tcp:46485:15"/>
+            <p>When I was about <hi>Eighteen or Nineteen Years Old,</hi> I began to think of Marriage, and at length got me a Wife, deſcended from Honeſt Parents, who was well inclined, and frequently impor<g ref="char:EOLhyphen"/>tuned me to be ſo too; often ſo<g ref="char:EOLhyphen"/>liciting me to go to Church, and ſpend the Lord's Day in his Ser<g ref="char:EOLhyphen"/>vice, but I was altogether deaf to her Pious Councels, and fol<g ref="char:EOLhyphen"/>lowed my own heady Humour, and finding by my Extravigant Courſes, that my Subſtance waſt<g ref="char:EOLhyphen"/>ed, and I began to be in penury and want, I betook my ſelf to the laſt ſhift, which uſually looſe Livers do, namely, <hi>To Liſt my ſelf for a Soldier;</hi> I was not long in that imploy, but I began to think of getting a Diſcharge, which I did; but when returned
+<pb n="27" facs="tcp:46485:15"/>Home, I could not ſettle to any buſineſs, whereby to get an honeſt lively-hood; but alienating my Affections from my Wife, <hi>(per<g ref="char:EOLhyphen"/>fideous wretch that I was!)</hi> I ſoon contracted with another Woman, who, in a little time, diſcovered my Villany, and with too much reaſon feared her Life would be miſerable with me; for that if I could violate my Sacred Vows in Matrimony, it was her juſt ſuſpicion I ſhould prove falſe to her, and ſo I did; for I took no care to provide for her, nor for the Iſſue of her Body, but run into daily Extravigancies.</p>
+            <p>All therefore that I can do, by way of Reparation for the Inju<g ref="char:EOLhyphen"/>ries I have done to theſe
+<hi>miſerable Women is,</hi> heartily to beg their Pardon, to beſeech God to bleſs
+<pb n="28" facs="tcp:46485:16"/>and keep them from ſuch baſe and inhuman uſage for the fu<g ref="char:EOLhyphen"/>ture.</p>
+            <p>You that know not the depths of Satan, and make light of ſome ſins, eſpecially the to too faſhion<g ref="char:EOLhyphen"/>able ſin of uncleanneſs; beware in time, as you love your Souls. Delude not your ſelves with theſe vain Thoughts and Arguments, I will only commit ſuch and ſuch a ſin, and ſtop at ſuch a ſtate in wickedneſs, and proceed no fur<g ref="char:EOLhyphen"/>ther. By theſe Decoys I have plunged my Soul into this great Thraldome. Therefore do not thus provoke God as I have done. For when once Men arrive to ſuch a height of imprudence, as to caſt off all awful Apprehenſions of God, they are readily prepared to commit all manner of Wicked<g ref="char:EOLhyphen"/>neſs, and inſenſibly plunge them<g ref="char:EOLhyphen"/>ſelves
+<pb n="29" facs="tcp:46485:16"/>into manifold Miſcheifs. Let my down-fall then ſcare you into a Reverential fear of God; or otherwiſe; if my Fate be not yours, yet hell will be your after-reward, from which, I hope the good God, for Chriſt Jeſus ſake will deliver me.</p>
+            <p>As I am a Monument of ſhame, an object of Scorn, and redicule of Mankind, ſo I am the ſubject of my own ſorrows, I weep, la<g ref="char:EOLhyphen"/>ment, and bewail the Fruits of my Folly; but let none ſo rejoice at my miſery, as to forget themſelves, and run into miſchiefs forbidden. Believe it, a wounded Conſcience in this Life, is an inſupportable Burden, but will prove a never Dying Worm in the World to Come, it will be gnawing and griping to eternal Ages. If you
+<pb n="30" facs="tcp:46485:17"/>were but ſenſible of the bitter Agonies and ſtrong Convulſions which have ſeized and over<g ref="char:EOLhyphen"/>whelmed me, as the juſt effects of a vicious Life, you would be afraid of ſin, and dread every incentive to it. Pray credit my experience; to be ſummoned be<g ref="char:EOLhyphen"/>fore an earthly Judg, to be Ar<g ref="char:EOLhyphen"/>reigned and Tried for Life, to be pronounced by the Virdict of the Jury, guilty of Death, to be Tyed up, and ſentence paſt ac<g ref="char:EOLhyphen"/>cordingly; theſe are affrighting, and amaſing conſiderations, which ceaſe the Spirits, and put the Powers into confuſion; but I am able to give you aſſurance, that theſe are by vaſt degrees inferiour to that Conſternation which arreſts my trembling and guilty Soul, at the conſideration of its ſudden appearance before the Judgment
+<pb n="31" facs="tcp:46485:17"/>Seat of Chriſt, upon whom I entirely depend, and hope will ſhew Mercy upon me, as he has promiſed he will upon all Penitent and Believing Sinners.</p>
+            <p>That therefore you may avoid the Shame, Reproach, and Ig<g ref="char:EOLhyphen"/>nominy, which <hi>I</hi> endure; be prevailed with to Keep Holy the Sabbath Day, which <hi>I</hi> too much Neglected, and which was an Inlet to all the Sins <hi>I</hi> am guilty of. Let not one Sin get the Aſcendant over you, for one attracts another, a ſecond, a third, and ſo on, even to an infinite number.</p>
+            <p>When once a Man gives way to the inſinuations, and fair pre<g ref="char:EOLunhyphen"/>tences of any one Vice, he is in<g ref="char:EOLhyphen"/>ſenſibly wrought upon by ano<g ref="char:EOLhyphen"/>ther, and at length becomes ſub<g ref="char:EOLhyphen"/>ſervient to thoſe ſins he had the
+<pb n="32" facs="tcp:46485:18"/>leaſt thoughts of, and moſt aver<g ref="char:EOLhyphen"/>ſion from. <hi>I</hi> ſhall inſtance in my Self.</p>
+            <p>When firſt <hi>I</hi> entered upon a Sinful Courſe, <hi>I</hi> thought no wrong to any one,
+<hi>I</hi> was only injurious to my ſelf, peſtering my Body with Diſeaſes by ex<g ref="char:EOLhyphen"/>ceſſive Drinking, waſting my Subſtance by immoderate Ga<g ref="char:EOLhyphen"/>ming; but being reduced to Po<g ref="char:EOLhyphen"/>verty thereby,
+<hi>I</hi> was tempted to ſupply my Extravigances by Pilfering and Stealing from others, and, at length, to be inſtrumen<g ref="char:EOLhyphen"/>tal in the Murthering of a Man, for which <hi>I</hi> now ſtand juſtly Condemned to Dye.</p>
+            <p>Though <hi>I</hi> did not actually Murder him, nor knew nothing of his Death, till <hi>I</hi> came down Stairs from Rifling; yet <hi>I</hi> hold
+<pb n="33" facs="tcp:46485:18"/>my Self equally Guilty with thoſe who did.</p>
+            <p>And <hi>I</hi> beſeech God to Pardon this preſumptuous, inhumane <hi>Act, Deliver me from Blood-guil<g ref="char:EOLhyphen"/>tineſs,</hi> and accept of my late Re<g ref="char:EOLhyphen"/>pentance for all the Sins commit<g ref="char:EOLhyphen"/>ted in my Life.
+<hi>Amen.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="34" facs="tcp:46485:19"/>
+                  <opener>
+                     <dateline>
+                        <date>May the 1ſt. 1695.</date>
+                     </dateline>
+                     <salute>My moſt Affectionate, but unhappy and ſorrowful Wife.</salute>
+                  </opener>
+                  <p>
+                     <hi>IT is now too late to wiſh I had been ſo ingenuous and governable as to have liſtned to your affectionate and Pious Counſels, which you often and readily tendered, out of no other deſign, but to be my own friend, and to make me Live in favour with God and Man. I cannot but call to mind how often thou hast followed me with weeping Eyes, and a ſor<g ref="char:EOLhyphen"/>rowful
+<pb n="35" facs="tcp:46485:19"/>Heart, Praying, beſeeching, and entreating me to forſake my looſe and idle Company, to leave that abo<g ref="char:EOLhyphen"/>minable ſin of Curſing and Swearing, to ſerve God, and follow an honeſt im<g ref="char:EOLhyphen"/>ployment, and how indecently and in<g ref="char:EOLhyphen"/>humanly I behaved my ſelf towards thee for ſo doing. It cuts me to the Heart that I ſhould abuſe my beſt Friend, and caſt all thy Exhortations behind me, which were expreſſed with ſo much candor, love and condeſcenti<g ref="char:EOLhyphen"/>on for theſe my abſurd and unchriſti<g ref="char:EOLhyphen"/>an dealings towards thee; God All<g ref="char:EOLhyphen"/>mighty, who is a most Juſt and Righteous Being, has permitted me to be plunged into my preſent un<g ref="char:EOLhyphen"/>happy circumſtances, and given me to understand, that I have obſtinate<g ref="char:EOLhyphen"/>ly withstood my own Good, and re<g ref="char:EOLhyphen"/>fuſed many fair opportunities of be<g ref="char:EOLhyphen"/>ing a happy Man: But, dear Wife, being convinced of thy entire affecti<g ref="char:EOLhyphen"/>ons towards me, I am bigg with
+<pb n="36" facs="tcp:46485:20"/>hope that you will Pardon my for<g ref="char:EOLhyphen"/>mer Inſolencies and perverſneſſes; for though I have fooliſhly ſunk in<g ref="char:EOLhyphen"/>to degeneracy, yet I am perſwaded thou haſt not loſt thy wonted Tenderneſs of Spirit, which indeed may be juſt<g ref="char:EOLhyphen"/>ly hardned againſt me, becauſe I have endeavoured always to make thee un<g ref="char:EOLhyphen"/>ſuitable returns; and if ſtill thou hast any yearning Bowels after me, I can<g ref="char:EOLhyphen"/>not but conclude thou art one of the beſt Wives in Nature. I could wiſh I were in a condition to make thee ſatisfaction for thoſe many days of Grief, thoſe broken ſleeps, thoſe ſighs, ſobs, and heart-akings, I have been the ſole cauſe of. Methinks I hear thy ſweet Expreſſions mingled with Love and fear. Methinks I ſee thee dull and drooping at the re<g ref="char:EOLhyphen"/>refractorineſs of thy Husband, la<g ref="char:EOLhyphen"/>menting and almoſt diſtracted, becauſe of his inflexible Humour. Was there ever ſuch a wretch in Nature as I!
+<pb n="37" facs="tcp:46485:20"/>Accept therefore of theſe Lines from thy ſorrowful and diſtreſſed Husband, accept them as the Characters of his Repentance for all the wrong he has done to thee; and read them o're and o're, not to indiſpoſe, but to comfort thee with the hope that I am in a way of being Saved; for though God has made uſe of this ſevere means to rouſe and awaken my Conſcience, yet it is, I hope, out of a merciful de<g ref="char:EOLhyphen"/>ſign to make me happy in the World to come. Be not diſmayed at my ſhameful fall; but entirely caſt thy ſelf upon God, who will defend and comfort thee, and turn this temporal Affliction, to thy Spiritual and E<g ref="char:EOLhyphen"/>ternal Good. Remember to avoid thoſe ſins, which thou diſcovereſt me most prone unto, and all others which thy own Nature may be prompted and inclined to. Never omit thy Duty either publick or private; conſult the Glory of God in all thy Actions,
+<pb n="38" facs="tcp:46485:21"/>be humble, modeſt, meek, and conde<g ref="char:EOLhyphen"/>ſcending, and an example of Holyneſs to thy Sex. Let the good of thy Child be thy daily care, nouriſh and cheriſh it, and the more, becauſe it is Fatherleſs; and as it grows up, inſtil good Principles into it, learn it to know its Creatour, and the Duty and Homage it owes him. Correct it when neceſſity requires, encourage it to be good, and never be backward in well-doing.</hi>
+                  </p>
+                  <p>
+                     <hi>I beſeech thee, dry up thy Tears, and don't contract Diſtempers by immoderate ſorrow. I am but going before, though after an ignominious and ſhameful manner, and e're long thou muſt dye too, and then I hope we ſhall both meet in Heaven. Our parting is dreadful; our adieus are uncooth and formidable, but fate has ſo ordered it, and we muſt reſt con<g ref="char:EOLhyphen"/>tented, though not without ſome Reluctancy, which is incident to fleſh
+<pb n="39" facs="tcp:46485:21"/>and Blood, and now the more provok<g ref="char:EOLhyphen"/>ed, on account of this unhappy ac<g ref="char:EOLhyphen"/>caſion.</hi>
+                  </p>
+                  <p>
+                     <hi>Dear Heart, I muſt think of ſtop<g ref="char:EOLhyphen"/>ping my Pen, for this is only the In<g ref="char:EOLhyphen"/>ſtrument of thy Sorrow, and the ſad remembrancer of former Tranſacti<g ref="char:EOLhyphen"/>ons, and brings afreſh to thy mind the many inſtances of thy ſlighted and abuſed Love; and this will be, to re<g ref="char:EOLhyphen"/>new thy grief, which is burden enough already, and to repreſent the ſence of my ill-ſpent Life. I beſeech God to pour upon you the Riches of his Good<g ref="char:EOLhyphen"/>neſs, to give you all things both for Soul and Body; that you may live in his Faith and fear, and make up that lost time, occaſioned by my vexatious and troubleſome carriage towards thee. This is all I think fit to communicate to thee, and it is expreſſed with an af<g ref="char:EOLhyphen"/>fectionate Heart. I ſhall end with that ſaying of St.</hi> Paul, I pray God grant you, according to the riches of his
+<pb n="40" facs="tcp:46485:22"/>Glory, to be ſtrengthned with his might by his Spirit, in the Inner<g ref="char:EOLhyphen"/>man, that Chriſt may dwell in your Heart by Faith, that you be<g ref="char:EOLhyphen"/>ing rooted and grounded in Love, may be able to comprehend with all Saints, what is the height, breadth, length and depth, and to know the love of Chriſt, which paſſes knowledg, that you may be filled with all the fulneſs of God.</p>
+                  <closer>
+                     <signed>I Reſt thy Affectionate, but distreſſed Husband, Robert Maynard.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Sinners remember the Expreſſi<g ref="char:EOLhyphen"/>ons of a Dying Man, let them ſink deep, and be perpetual warnings to you. Here ends the Confeſſion of <hi>Robert Maynard.</hi>
+            </p>
+            <pb n="41" facs="tcp:46485:22"/>
+            <p>It may reaſonably be preſumed, that if men are not void of Natural Modeſty, and bidden adieu to all ſeriouſneſs, theſe lines will affect them, and Spirit them with reſolu<g ref="char:EOLhyphen"/>tion againſt the ſins which were the ruin and entire overthrow of this poor Creature; who was willing to expoſe his indigeſted Papers, to publick view, that they might timely prevent wicked men from falling into endleſs miſery; and certainly if ſuch Pathetick Argu<g ref="char:EOLhyphen"/>ings of a Dying Man, be not pow<g ref="char:EOLhyphen"/>erful and influential; it is much to be feared, that men are hardned againſt reproof, and impregnable to good advice. Dying men, who are ſeized with a quick and peirc<g ref="char:EOLhyphen"/>ing ſenſe of their ſins, ſpeak with moſt feeling, and leaſt affectation. They tell us plainly, that ſin is plea<g ref="char:EOLhyphen"/>ſant but for a very little time, that it puts Conſcience into ſtrong Con<g ref="char:EOLhyphen"/>vulſions,
+<pb n="42" facs="tcp:46485:23"/>and Creates a very Hell within a Man's ſelf; that it har<g ref="char:EOLhyphen"/>dens him againſt ſerious Exhortati<g ref="char:EOLhyphen"/>ons, makes him forget God and his Soul; and without infinite Mercy will cruſh him into the Regions below, where do dwell Devils and Damned Fiends. Who can be better judges of this than they who experience the woful effects of ſin? And who more obdurate than they who ſecurely live in ſin, notwith<g ref="char:EOLhyphen"/>ſtanding ſuch affectionate warn<g ref="char:EOLhyphen"/>ings? I ſhall therefore make uſe of this opportunity.</p>
+            <p>Firſt, To perſwade Parents that they take care to bring up their Children in the fear of God; that they inſtil the Principles of the Chriſtian Religion into their Chil<g ref="char:EOLhyphen"/>dren betimes, while they are ten<g ref="char:EOLhyphen"/>der and flexible, and ſubjective to the Admoniſhments of their Friends. It is a ſad conſideration
+<pb n="43" facs="tcp:46485:23"/>that Fathers and Mothers are ſo generally negligent of this moſt Chriſtian Duty; and ſuffer their Children to grow up with no bet<g ref="char:EOLhyphen"/>ter an Education than corrupt Na<g ref="char:EOLhyphen"/>ture gives them. How often do we hear little Creatures, whoſe tongues are ſcarce ſtrong enough to pro<g ref="char:EOLhyphen"/>nounce their Mother Language, take God's Name in vain? Tho they are not ſenſible of the evil of ſuch Profane Expreſſions, yet their Parents ſhould Correct them, and they by a conſtant obſervation of their ſeverity, would ſoon learn to avoid the taking of God's Name into their Mouths, at every turn, tho not out of a ſenſe of their duty to God; yet out of fear of Puniſh<g ref="char:EOLhyphen"/>ment, <hi>Train up a Child,</hi> ſays the Wiſe Man, <hi>in the way he ſhould go, and when he is old, he will not depart from it;</hi> that is, initiate, or inſtruct him; Firſt, according to his Ca<g ref="char:EOLhyphen"/>pacity:
+<pb n="44" facs="tcp:46485:24"/>Or rather, Secondly, in that courſe and manner of Life which thou wouldſt have him to chuſe and follow, or as ſome render it, in the beginning of his way, <hi>i. e.</hi> in his tender years, as ſoon as he is capable of Inſtructi<g ref="char:EOLhyphen"/>on; and when grown to Maturi<g ref="char:EOLhyphen"/>ty, he will not eaſily deviate from his early Inſtitution; the impreſ<g ref="char:EOLhyphen"/>ſions made in Childiſh years will remain; not but that he may fall off, and become a Reprobate; but for the moſt part, a timely and Pious Education, produces a future Religious Deportment. And to encourage Parents to this duty of well Educating their Children, let them conſider, that this is an immediate way to procure God's Bleſſings upon their Families; to make their Children, when grown up, to do good in their Generation; to be ſerviceable and uſeful to them
+<pb n="45" facs="tcp:46485:24"/>when Aged, or reduced to Pover<g ref="char:EOLhyphen"/>ty: But above all, this Chriſtian care will be matter of great com<g ref="char:EOLhyphen"/>fort when they come to Dye.</p>
+            <p n="2">2. Let Maſters alſo be watch<g ref="char:EOLhyphen"/>ful over their Servants, preſſing them by their Religious Examples to an holy Life. Maſters are as anſwerable to God for their Ser<g ref="char:EOLhyphen"/>vants, as Parents are for their Children. And this conſidered, they ſhould keep them in a Reli<g ref="char:EOLhyphen"/>gious awe, learn them to be ſo<g ref="char:EOLhyphen"/>ber and modeſt, Exhort them to whatſoever things are Juſt, Honeſt and of good Report. Call upon them to joyn in Family-Devotion, to frequent the Church; reſtrain them from the looſer ſort, oblige them to be meek and Courteous. Were Maſters of Families thus Conſciencious, Servants would be more Faithful in their Poſts; it is
+<pb n="46" facs="tcp:46485:25"/>thus expreſſed in the <hi>Whole Duty of Man,</hi> pag. 314.
+<q rend="margQuotes">'Maſters are to Admoniſh and Reprove their Servants in caſe of faults, and that not only in faults againſt them, wherein few maſters are backward; but alſo, and more eſpecially in faults againſt God, whereas every maſter ought to be more troubled than at thoſe which tend only to his own loſs, or inconvenience; the diſhon<g ref="char:EOLhyphen"/>our of God, and the hazard of the meaneſt mans Soul, being infinitely more worthy our diſ<g ref="char:EOLhyphen"/>quiet, than any thing of the other kind can be. And therefore when maſters are preſently on fire for any little negligence or fault of a Servant towards themſelves, and yet can without trouble ſee them run into the greateſt ſins againſt God, 'tis a ſign they con<g ref="char:EOLhyphen"/>ſider their own concernments too
+<pb n="31" facs="tcp:46485:25"/>much, and God's Glory, and their Servants Souls too little.</q> Such Maſters forget that they muſt one day give an Account how they have governed their Fami<g ref="char:EOLhyphen"/>lies.</p>
+            <p>Religion was never at a lower Ebb than now, which ſpeaks that Men were never more in<g ref="char:EOLhyphen"/>ſenſible of their miſerable State. But Methinks this ſhould be a Paradox, ſince our City abounds with Learned and able Divines, who are daily ringing Men in the Ears with the danger of ſin, and the neceſſity of a ſpeedy and time<g ref="char:EOLhyphen"/>ly Converſion. But ſuch is the abſurd folly of men, they are, as it were, glutted with Divinity, and think they are too much im<g ref="char:EOLhyphen"/>portuned to be happy. But can cautions in matters Spiritual be too often Publiſhed? Does not the
+<pb n="32" facs="tcp:46485:26"/>Souls of Men call for Admoniti<g ref="char:EOLhyphen"/>ons and Perſwaſions, and the ut<g ref="char:EOLhyphen"/>moſt diligence that can be uſed, to prepare them for the Embraces of the Father of Spirits? Is any thing of that worth, as the Soul? For this Chriſt did Sweat and Groan, and Bleed and Die.</p>
+            <p>Sirs, conſider, that to loſe the Soul, is to loſe all and no redeem<g ref="char:EOLhyphen"/>ing it, after the fatal Sentence is paſt upon it. Confider what a terrible thing it will be to be doomed to eternal Miſery, to be ſhut up with Devils and damned Fiends in the unhappy Reſiden<g ref="char:EOLhyphen"/>ſes of endleſs Torments. Who can dwell with everlaſting burn<g ref="char:EOLhyphen"/>ings? Who can endure to be Rackt, and Stung, and Griped for ever, without Redemption? Be therefore perſwaded to for<g ref="char:EOLhyphen"/>ſake your Sins, whilſt you have ſtrength to commit them; do
+<pb n="33" facs="tcp:46485:26"/>not procraſtinate, and ſhift off your Repentance to hereafter, leſt before that time come, you be unexpectedly Arreſted, ſtript into naked Spirits, and ſet a ſhore upon the other inviſible World. It is ſtrange that men muſt be Courted to be Happy! They are induſtrious enough to get Tem<g ref="char:EOLhyphen"/>poral Riches, eager of Worldly Honour, or any thing which may render their Lives Comfortable, Eaſy, and Deſirable; and yet very backward in laying up Treaſure in Heaven: This is a Work ſo unſuitable with the hu<g ref="char:EOLhyphen"/>mour of the Age, ſo vaſtly differ<g ref="char:EOLhyphen"/>ent from thoſe acquiſitions which the greateſt part of the World ſtudy for and ſeek after, that it is lookt upon a very ſtupid, me<g ref="char:EOLhyphen"/>lancholly, lifeleſs imployment. Time enough, ſay they, to think of another Life, when we have
+<pb n="35" facs="tcp:46485:27"/>nothing elſe to do; when our ſenſes decay, and cannot reliſh outward Delights, when our Bo<g ref="char:EOLhyphen"/>dies are bound down to a ſtate of inactivity by the Violence of Kill<g ref="char:EOLhyphen"/>ing Diſeaſes; when the Phyſician gives over Preſcribing, and there is no apparent hopes of Recovery. But what a pernicious ſuggeſtion is this; who can aſſure himſelf of Grace to Repent at ſuch a time? For beſides the Prevalency of vi<g ref="char:EOLhyphen"/>cious Habits, which are great ob<g ref="char:EOLhyphen"/>ſtructions to Repentance, it is but juſt with God to deny his Grace at the laſt gaſp to thoſe who have obſtinately refuſed the merciful repeated tenders of it all their life time. With all the manifeſt impru<g ref="char:EOLhyphen"/>denſe of Delays, is it reaſonable to ſuppoſe that God will accept of our lame, imperfect Services, a faint, Lord have mercy upon me, a few extorted Prayers, and haſty reſolu<g ref="char:EOLhyphen"/>tions,
+<pb n="34" facs="tcp:46485:27"/>after Satan has quaffed our Youthful Blood, and has imploy<g ref="char:EOLhyphen"/>ed us in his drudgery in our Health and Strength?</p>
+            <p>You therefore that put the evil day afar off, and reckon upon Re<g ref="char:EOLhyphen"/>pentance when you come to Dye; conſider, that tho God has revealed to men that they ſhall certainly Dye once, yet he has not acquaint<g ref="char:EOLhyphen"/>ed them at what time; it may be ſooner or later; nor yet after what manner, it may be a
+<hi>Lethargy</hi> may ſeize thee, and ſo all thy Powers and deſcerning Faculties ſtupified, and thou inſenſible of thy depar<g ref="char:EOLhyphen"/>ture. Or it may be a violent Fea<g ref="char:EOLhyphen"/>ver may affect thy Brain, and thou not name the name of God, but in Oaths and Curſes, and thus leave the World. So that, ſince the time of our Departure hence is uncertain, ſince the manner and circumſtances of our
+<hi>Exit,</hi> is kept
+<pb n="36" facs="tcp:46485:28"/>as a ſecret from us, it is the greateſt folly in the world to put off the buſineſs of our Souls to hereafter. The time preſent is that alone we can properly call our own, to mor<g ref="char:EOLhyphen"/>row, next week, or month, are uncertainties; before this, we may be ſtript, and ſent into the other World. <hi>Work therefore whilſt it is called day, for the night comes wherein no man can work.</hi>
+            </p>
+            <p>I hope this ſhort application may have its deſigned effect upon all that read it, to the Glory of God, the well-governing of their Lives, and the Eternal Comfort of their Souls.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:46485:28"/>
+            <head>BOOKS in the Preſs, and de<g ref="char:EOLhyphen"/>ſigned for it. Printed for <hi>John Dunton.</hi>
+            </head>
+            <p>☞ THE Deſign for Recording the moſt Remarkable Providences of Judg<g ref="char:EOLhyphen"/>ment and Mercy,
+<hi>&amp;c.</hi> Which have happened in this Age, (by the Reverend Mr. <hi>Turner</hi>) having been much approved of, as appears by the well Atteſted Relations which have been ſent to him from many parts of the three Kingdoms, (none of which have yet been Print<g ref="char:EOLhyphen"/>ed. The ſaid work will be Publiſh'd with all poſſible Expedition. Propoſals, and Specimens giving a full Account of this Hiſtory, are to be had of the Undertaker <hi>John Dunton,</hi> at the <hi>Raven</hi> in
+<hi>Jewen-ſtreet,</hi> and of moſt Bockſellers in <hi>London</hi> and the
+<hi>Country.</hi>
+            </p>
+            <p>The Poetical Works of the Ingenious PIN<g ref="char:EOLhyphen"/>DARICK LADY</p>
+            <pb facs="tcp:46485:29"/>
+            <p>
+               <hi>The general History of the Quakers,</hi> from their firſt Original, down to this preſent time. Written in Latin by the Learned <hi>Croes,</hi> and done into <hi>Engliſh</hi> by an able hand.</p>
+            <p>☞ <hi>THE Third and Fourth Volumes of the</hi> FRENCH BOOK of MARTYRS (for which no more Subſcriptions will be taken in) will be Publiſhed with her late Majeſty's <hi>ROYAL PRIVILEDGE,</hi> are Preparing for the Preſs; but being much larger than the <hi>two former Volumes</hi> (for theſe Two Laſt Com<g ref="char:EOLhyphen"/>pleat the Work and contain the <hi>MAR<g ref="char:EOLhyphen"/>TTRDOMS</hi> of all the <hi>French Pro<g ref="char:EOLhyphen"/>teſtants,</hi> from the beginning of the Reign of <hi>LEWIS</hi> XIV. down to this time) 'twill be a conſiderable time before they can poſſibly be ready for publication; but as ſoon as they are notice thereof will be given in the <hi>Ga<g ref="char:EOLhyphen"/>zette</hi> by the Undertaker
+<hi>John Dunton,</hi> at the <hi>Raven</hi> in <hi>Jewen-ſtreet.</hi>
+            </p>
+            <p>☞ If any <hi>Miniſters VVidow,</hi> or other perſon, have any Library, or parcel of books to diſpoſe of, if they will ſend a Catalogue of them, or notice where they are, to
+<hi>John Dun<g ref="char:EOLhyphen"/>ton,</hi> at the <hi>Raven</hi> in <hi>Jewen-ſtreet,</hi> they ſhall have ready mony for them, to the full of what <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey are worth.</p>
+            <pb facs="tcp:46485:29"/>
+         </div>
+      </back>
+   </text>
+</TEI>
